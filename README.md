@@ -1,4 +1,3 @@
----
 
 # 🔐 Cybersecurity Attack Detection System 🚀  
 
@@ -6,6 +5,40 @@ A **machine learning-powered** web application for detecting and classifying dif
 Built using **Streamlit, Scikit-Learn, XGBoost, TensorFlow**, and more! 🛡️  
 
 Here is the link to the web application - [Cyber Security Attack Prediction](https://cyber-security-attack-prediction-nk3gtz97kb36k2ry5oumfx.streamlit.app/)
+
+## Project & Contribution — Saibou Keita
+
+**Academic group project — DSTI — 2025**
+
+Originally developed as a team project:
+[Original repository](https://github.com/ashish18oct/Cyber-Security-Attack-Prediction).
+
+**Saibou Keita** — Machine Learning, model training/evaluation & Streamlit UI  
+Former GitHub account: [@KEITA-Sai](https://github.com/KEITA-Sai) · Current account: [@skeita](https://github.com/skeita)
+
+My contribution focused on:
+
+- Data preparation and preprocessing.
+- Model training and evaluation, including comparison of Random Forest and XGBoost.
+- Integration of the trained model into a Streamlit application with interactive visualisations.
+
+### Team
+
+- Yani Lala
+- Saibou Keita
+- Ashish Singh
+- Aicha El Gueddari
+- Ravichandan Kodijuttu
+- Durga Bhavani Kowrada
+
+This is a **group project**. This fork preserves the original team attribution and Git history.
+
+### GitHub Identity Continuity
+
+`@KEITA-Sai` was my GitHub account during the 2025 project.
+`@skeita` is my current account, used for the 2026 portfolio documentation.
+
+Both accounts refer to **Saibou Keita**. Historical commits retain their original authorship.
 
 ---
 
@@ -37,7 +70,7 @@ Here is the link to the web application - [Cyber Security Attack Prediction](htt
 ### 1️⃣ Clone the repository  
 
 ```bash
-git clone https://github.com/yourusername/Cyber-Security-Attack-Prediction.git
+git clone https://github.com/skeita/Cyber-Security-Attack-Prediction.git
 cd Cyber-Security-Attack-Prediction
 ```
 
